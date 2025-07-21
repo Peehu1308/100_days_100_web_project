@@ -1,0 +1,20 @@
+/* *{
+    background-color: rgb(255, 81, 0);
+} */
+.task{
+    display: flex;
+    flex-direction: row;
+    padding:40px
+
+}
+.task a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.task .links{
+    display: flex;
+    justify-content: flex-end;
+    right: 0;
+    padding: 0;
+}
